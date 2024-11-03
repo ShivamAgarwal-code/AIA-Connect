@@ -29,7 +29,7 @@ contract SocialMediaDapp {
     event MessageAdded(uint256 groupId, address sender, string message);
     //GROUP END
 
-    //GREATING DI
+    //CREATING DI and the variables
     uint256 public _postID;
     uint256 public _userID;
 
