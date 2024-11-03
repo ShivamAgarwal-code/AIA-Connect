@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import { BsFillCloudUploadFill } from "react-icons/bs";
 import { AiOutlineUserAdd } from "react-icons/ai";
